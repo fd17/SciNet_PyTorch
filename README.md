@@ -1,7 +1,7 @@
 # SciNet (PyTorch)
 
-This is a PyTorch implementation of the SciNet architecture, introduced in the paper Discovering physical concepts
-with neural networks ([arxiv.org/abs/1807.10300](https://arxiv.org/abs/1807.10300)) by Raban Iten, Tony Metger, Henrik Wilming, Lidia del Rio and Renato Renner. It uses a modified variational autoencoder approach to discover fundamental physical properties from a given set of observations.
+This is a PyTorch implementation of the SciNet architecture, introduced in the paper  [*Discovering physical concepts
+with neural networks*](https://arxiv.org/abs/1807.10300) by Raban Iten, Tony Metger, Henrik Wilming, Lidia del Rio and Renato Renner. It uses a modified variational autoencoder approach to discover fundamental physical properties from a given set of observations.
 
 ## Requirements
 * [Python 3.6](https://www.python.org/downloads/release/python-366/)
